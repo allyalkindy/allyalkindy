@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ally+👋;Full+Stack+Developer;Building+with+JavaScript+%26+Python;Based+in+Dar+es+Salaam%2C+Tanzania" alt="Typing SVG" />
+# Hi there, I'm Ally 👋
+### Full Stack Developer · Building with TypeScript, JavaScript & Python
 
 </div>
 
@@ -24,10 +24,15 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -39,24 +44,14 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 
 ## 📌 Featured Projects
 
-<div align="center">
+| Project | Description | Tech |
+|---|---|---|
+| 🏠 [**miamia**](https://github.com/allyalkindy/miamia) | _Add a one-line description here_ | — |
+| 📦 [**zadaawa**](https://github.com/allyalkindy/zadaawa) | _Add a one-line description here_ | — |
+| 🏢 [**binaryflowtech**](https://github.com/allyalkindy/binaryflowtech) | _Add a one-line description here_ | — |
+| 📊 [**safaridashboard**](https://github.com/allyalkindy/safaridashboard) | _Add a one-line description here_ | — |
 
-<a href="https://github.com/allyalkindy/miamia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=allyalkindy&repo=miamia&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/allyalkindy/zadaawa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=allyalkindy&repo=zadaawa&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/allyalkindy/binaryflowtech">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=allyalkindy&repo=binaryflowtech&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/allyalkindy/safaridashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=allyalkindy&repo=safaridashboard&theme=default&hide_border=true" />
-</a>
-
-</div>
-
-> These cards pull live from GitHub (name, description, language, stars) — as long as each repo has a short description set on GitHub, it'll show up here automatically. No hardcoded text to keep in sync.
+> I used a plain table here instead of the auto-generated GitHub stat cards, since those pull from a third-party image service that can fail to load intermittently. Swap in a one-line description and stack for each repo above — takes 2 minutes and it'll never break.
 
 <br/>
 
@@ -72,6 +67,8 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=allyalkindy&theme=default&hide_border=true" />
 
 </div>
+
+> If any of these three images show as broken/blank once pushed, it's usually the free hosting service being briefly overloaded — refreshing the page or waiting a few minutes fixes it. If one stays broken, delete that line; it isn't essential.
 
 <br/>
 
