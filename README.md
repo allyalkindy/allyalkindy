@@ -1,7 +1,19 @@
+<!-- ===================== ANIMATED HEADER BANNER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:0D47A1&height=200&section=header&text=Ally%20Mohammed%20Said&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%40%20Binary%20Flow%20Tech&descAlignY=62&descSize=18&fontAlignY=35" />
+
+<!-- ===================== TYPING TAGLINE ===================== -->
 <div align="center">
 
-# Hi there, I'm Ally 👋
-### Full Stack Developer · Building with TypeScript, JavaScript & Python
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+with+TypeScript+%2B+Next.js;NestJS+%2B+Express+%2B+MongoDB;React+Native+%26+Python+on+the+side)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<!-- ===================== TERMINAL WHOAMI ===================== -->
+<div align="center">
+
+[![Terminal whoami](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=39FF14&background=0D1117FF&center=true&vCenter=true&width=560&height=140&lines=%24+whoami;%3E+Ally+Mohammed+Said;%3E+Full-Stack+Dev+%40+Binary+Flow+Tech;%3E+Based+in+Dar+es+Salaam%2C+Tanzania;%3E+status%3A+shipping...)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +25,7 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 
 - 🔭 Currently working on full-stack web and mobile applications at **Binary Flow Tech**
 - 🌱 Exploring machine learning applications like image search and recommendation-style tools
-- 💬 Ask me about JavaScript, React Native, and Python
+- 💬 Ask me about TypeScript, Next.js, NestJS, React Native, and Python
 - 📫 Reach me through my website or Instagram below
 - ⚡ Fun fact: I like turning small ideas into working apps over a weekend
 
@@ -46,12 +58,10 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 
 | Project | Description |
 |---|---|
-| 🏠 [**miamia**](https://github.com/allyalkindy/miamia) | _Online inventory management system_ |
-| 📦 [**zadaawa**](https://github.com/allyalkindy/zadaawa) | _Online application system for travel agency_ | 
-| 🏢 [**binaryflowtech**](https://github.com/allyalkindy/binaryflowtech) | _A tech company profile_ | 
-| 📊 [**safaridashboard**](https://github.com/allyalkindy/safaridashboard) | _Safari Dashboard for analytics_ | 
-
-> I used a plain table here instead of the auto-generated GitHub stat cards, since those pull from a third-party image service that can fail to load intermittently. Swap in a one-line description and stack for each repo above — takes 2 minutes and it'll never break.
+| 🏠 [**miamia**](https://github.com/allyalkindy/miamia) | Online inventory management system |
+| 📦 [**zadaawa**](https://github.com/allyalkindy/zadaawa) | Online application system for a travel agency |
+| 🏢 [**binaryflowtech**](https://github.com/allyalkindy/binaryflowtech) | A tech company profile site |
+| 📊 [**safaridashboard**](https://github.com/allyalkindy/safaridashboard) | Safari dashboard for analytics |
 
 <br/>
 
@@ -59,11 +69,38 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=allyalkindy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyalkindy&layout=compact&theme=tokyonight&hide_border=true" />
+
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allyalkindy&theme=default&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=allyalkindy&theme=tokyonight&hide_border=true" />
 
 </div>
+
+> If any of these show as broken/blank right after pushing, it's usually the free hosting service being briefly overloaded — refresh in a minute and it clears up.
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=allyalkindy&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/allyalkindy/allyalkindy/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
+</div>
+
+> This one animates a snake eating through your contribution graph. It needs a tiny one-time setup — see `snake.yml` below, it won't work until you add it.
 
 <br/>
 
@@ -95,3 +132,6 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 <img src="https://komarev.com/ghpvc/?username=allyalkindy&style=for-the-badge&color=2EA043" alt="Profile views" />
 
 </div>
+
+<!-- ===================== ANIMATED FOOTER BANNER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:2EA043&height=120&section=footer" />
