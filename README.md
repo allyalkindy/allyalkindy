@@ -44,12 +44,12 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description |
 |---|---|---|
-| 🏠 [**miamia**](https://github.com/allyalkindy/miamia) | _Add a one-line description here_ | — |
-| 📦 [**zadaawa**](https://github.com/allyalkindy/zadaawa) | _Add a one-line description here_ | — |
-| 🏢 [**binaryflowtech**](https://github.com/allyalkindy/binaryflowtech) | _Add a one-line description here_ | — |
-| 📊 [**safaridashboard**](https://github.com/allyalkindy/safaridashboard) | _Add a one-line description here_ | — |
+| 🏠 [**miamia**](https://github.com/allyalkindy/miamia) | _Online inventory management system_ |
+| 📦 [**zadaawa**](https://github.com/allyalkindy/zadaawa) | _Online application system for travel agency_ | 
+| 🏢 [**binaryflowtech**](https://github.com/allyalkindy/binaryflowtech) | _A tech company profile_ | — |
+| 📊 [**safaridashboard**](https://github.com/allyalkindy/safaridashboard) | _Safari Dashboard for analytics_ | 
 
 > I used a plain table here instead of the auto-generated GitHub stat cards, since those pull from a third-party image service that can fail to load intermittently. Swap in a one-line description and stack for each repo above — takes 2 minutes and it'll never break.
 
