@@ -59,16 +59,11 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=allyalkindy&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyalkindy&layout=compact&theme=default&hide_border=true" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=allyalkindy&theme=default&hide_border=true" />
 
 </div>
-
-> If any of these three images show as broken/blank once pushed, it's usually the free hosting service being briefly overloaded — refreshing the page or waiting a few minutes fixes it. If one stays broken, delete that line; it isn't essential.
 
 <br/>
 
