@@ -67,10 +67,7 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=allyalkindy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyalkindy&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
