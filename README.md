@@ -70,7 +70,7 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 
 
 <br/>
-
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=allyalkindy&theme=tokyonight&hide_border=true" />
 
 </div>
