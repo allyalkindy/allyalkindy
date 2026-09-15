@@ -78,17 +78,6 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 
 </div>
 
-> If any of these show as broken/blank right after pushing, it's usually the free hosting service being briefly overloaded — refresh in a minute and it clears up.
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=allyalkindy&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
 
 <br/>
 
@@ -100,7 +89,7 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 
 </div>
 
-> This one animates a snake eating through your contribution graph. It needs a tiny one-time setup — see `snake.yml` below, it won't work until you add it.
+
 
 <br/>
 
