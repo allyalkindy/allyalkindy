@@ -96,7 +96,7 @@ I'm **Ally Mohammed Said**, a Full Stack Developer Intern at **Binary Flow Tech*
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/allyalkindy/allyalkindy/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+<img src="https://cdn.jsdelivr.net/gh/allyalkindy/allyalkindy@output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 
 </div>
 
